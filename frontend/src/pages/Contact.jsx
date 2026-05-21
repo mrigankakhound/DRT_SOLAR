@@ -56,7 +56,7 @@ export default function Contact() {
             <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-sm" style={{ height: '380px' }}>
               <iframe
                 title="DRT ENTERPRISE Location"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57416.38684440449!2d91.67875!3d26.14486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375a5860b770571f%3A0xef98ee0d9e3d8e73!2sJorhat%2C%20Assam!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1059.1427372152414!2d94.19903562170991!3d26.759774884337364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3746c377e59c1a61%3A0x4773f0fcec30e363!2sCholadhara%20Chariali!5e0!3m2!1sen!2sin!4v1779348920078!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
