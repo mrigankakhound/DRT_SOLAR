@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Axios instance — uses Vite proxy in dev, absolute URL in prod
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: 'https://drt-solar-backend.onrender.com/api',
   timeout: 10000,
   headers: { 'Content-Type': 'application/json' },
 });
